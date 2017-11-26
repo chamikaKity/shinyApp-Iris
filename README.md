@@ -1,5 +1,5 @@
-A Shiny Application on Iris Data
-================================
+A Shiny Application Analyzing Iris Data
+=======================================
 
 Description
 -----------

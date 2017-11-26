@@ -25,7 +25,6 @@ shinyUI(fluidPage(
           a("https://github.com/chamikaKity/shinyApp-Iris")),
         
         
-        
         sidebarLayout(
                 sidebarPanel(
                         sliderInput("sliderPetalLength", "What is the Petal.Length?", 0.9, 7.1, value = 4),

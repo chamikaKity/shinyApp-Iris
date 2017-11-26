@@ -21,8 +21,8 @@ shinyUI(fluidPage(
           "You will see the chosen input displayed as a blue",
           "circle on the figure and the predicted category below the figure."),
         
-        p(strong("Github link for server.R and ui.R code")),
-        p(""),
+        p(strong("Github link for server.R and ui.R code:"),
+          a("https://github.com/chamikaKity/shinyApp-Iris")),
         
         
         
